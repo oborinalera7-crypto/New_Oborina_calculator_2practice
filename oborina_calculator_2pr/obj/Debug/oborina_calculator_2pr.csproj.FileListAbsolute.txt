@@ -1,0 +1,17 @@
+C:\Users\Валерия\source\repos\oborina_calculator_2pr\oborina_calculator_2pr\bin\Debug\oborina_calculator_2pr.exe.config
+C:\Users\Валерия\source\repos\oborina_calculator_2pr\oborina_calculator_2pr\bin\Debug\oborina_calculator_2pr.exe
+C:\Users\Валерия\source\repos\oborina_calculator_2pr\oborina_calculator_2pr\bin\Debug\oborina_calculator_2pr.pdb
+C:\Users\Валерия\source\repos\oborina_calculator_2pr\oborina_calculator_2pr\bin\Debug\oborina_library1.dll
+C:\Users\Валерия\source\repos\oborina_calculator_2pr\oborina_calculator_2pr\bin\Debug\oborina_library1.pdb
+C:\Users\Валерия\source\repos\oborina_calculator_2pr\oborina_calculator_2pr\obj\Debug\oborina_calculator_2pr.csproj.AssemblyReference.cache
+C:\Users\Валерия\source\repos\oborina_calculator_2pr\oborina_calculator_2pr\obj\Debug\MainWindow.baml
+C:\Users\Валерия\source\repos\oborina_calculator_2pr\oborina_calculator_2pr\obj\Debug\MainWindow.g.cs
+C:\Users\Валерия\source\repos\oborina_calculator_2pr\oborina_calculator_2pr\obj\Debug\App.g.cs
+C:\Users\Валерия\source\repos\oborina_calculator_2pr\oborina_calculator_2pr\obj\Debug\oborina_calculator_2pr_MarkupCompile.cache
+C:\Users\Валерия\source\repos\oborina_calculator_2pr\oborina_calculator_2pr\obj\Debug\oborina_calculator_2pr.g.resources
+C:\Users\Валерия\source\repos\oborina_calculator_2pr\oborina_calculator_2pr\obj\Debug\oborina_calculator_2pr.Properties.Resources.resources
+C:\Users\Валерия\source\repos\oborina_calculator_2pr\oborina_calculator_2pr\obj\Debug\oborina_calculator_2pr.csproj.GenerateResource.cache
+C:\Users\Валерия\source\repos\oborina_calculator_2pr\oborina_calculator_2pr\obj\Debug\oborina_calculator_2pr.csproj.CoreCompileInputs.cache
+C:\Users\Валерия\source\repos\oborina_calculator_2pr\oborina_calculator_2pr\obj\Debug\oborina_.C218CFBE.Up2Date
+C:\Users\Валерия\source\repos\oborina_calculator_2pr\oborina_calculator_2pr\obj\Debug\oborina_calculator_2pr.exe
+C:\Users\Валерия\source\repos\oborina_calculator_2pr\oborina_calculator_2pr\obj\Debug\oborina_calculator_2pr.pdb

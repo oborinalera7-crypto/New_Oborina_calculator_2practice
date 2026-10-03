@@ -1,0 +1,6 @@
+C:\Users\Валерия\source\repos\oborina_calculator_2pr\oborina_library1\bin\Debug\oborina_library1.dll
+C:\Users\Валерия\source\repos\oborina_calculator_2pr\oborina_library1\bin\Debug\oborina_library1.pdb
+C:\Users\Валерия\source\repos\oborina_calculator_2pr\oborina_library1\obj\Debug\oborina_library1.csproj.AssemblyReference.cache
+C:\Users\Валерия\source\repos\oborina_calculator_2pr\oborina_library1\obj\Debug\oborina_library1.csproj.CoreCompileInputs.cache
+C:\Users\Валерия\source\repos\oborina_calculator_2pr\oborina_library1\obj\Debug\oborina_library1.dll
+C:\Users\Валерия\source\repos\oborina_calculator_2pr\oborina_library1\obj\Debug\oborina_library1.pdb
